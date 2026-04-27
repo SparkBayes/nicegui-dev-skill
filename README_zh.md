@@ -1,6 +1,6 @@
 # NiceGUI 开发技能
 
-Claude Code 的 NiceGUI（Python Web UI 框架）开发专家技能。
+NiceGUI（Python Web UI 框架）开发技能，适用于所有 AI agent。推荐在 OpenClaw 上使用。
 
 ## 功能特性
 

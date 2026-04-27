@@ -1,6 +1,6 @@
 # NiceGUI Dev Skill
 
-A Claude Code skill for NiceGUI (Python Web UI framework) development.
+A skill for NiceGUI (Python Web UI framework) development. Recommended for use on OpenClaw.
 
 ## Features
 

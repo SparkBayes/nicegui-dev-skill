@@ -49,19 +49,6 @@ ui.run()
 | **Media** | `ui.image`, `ui.interactive_image`, `ui.audio`, `ui.video`, `ui.parallax` |
 | **Special** | `ui.json_editor`, `ui.xterm`, `ui.anywidget`, `ui.timer`, `ui.refreshable`, `ui.run_javascript`, `ui.keyboard`, `ui.download`, `ui.status_code` |
 
-## Supported Marketplaces
-
-| Site | Language |
-|------|----------|
-| US | English |
-| CA | English |
-| UK | English |
-| DE | German |
-| FR | French |
-| IT | Italian |
-| ES | Spanish |
-| JP | Japanese |
-
 ## License
 
 MIT
